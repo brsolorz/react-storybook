@@ -1,0 +1,14 @@
+{
+  "main.css": "/react-storybook/static/css/main.5f65981f.chunk.css",
+  "main.js": "/react-storybook/static/js/main.78ac1880.chunk.js",
+  "main.js.map": "/react-storybook/static/js/main.78ac1880.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/react-storybook/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/react-storybook/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/react-storybook/static/js/runtime~main.173a45a3.js",
+  "runtime~main.js.map": "/react-storybook/static/js/runtime~main.173a45a3.js.map",
+  "static/media/logo.svg": "/react-storybook/static/media/logo.5d5d9eef.svg",
+  "static/css/main.5f65981f.chunk.css.map": "/react-storybook/static/css/main.5f65981f.chunk.css.map",
+  "index.html": "/react-storybook/index.html",
+  "precache-manifest.a7ac1c297152ccc380a7b8314cd0f156.js": "/react-storybook/precache-manifest.a7ac1c297152ccc380a7b8314cd0f156.js",
+  "service-worker.js": "/react-storybook/service-worker.js"
+}
